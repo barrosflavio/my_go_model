@@ -1,21 +1,19 @@
 # Security Policy
 
-## Supported Versions
+## Reporting Security Issues
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+If you discover a security vulnerability in this project, please email us
+at [flaviomarbs@gmail.com](mailto:flaviomarbs@gmail.com) with a detailed 
+description of the vulnerability. We kindly ask that you refrain from 
+publicly disclosing the vulnerability until it has been addressed by our team.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+We take security seriously and appreciate your efforts to responsibly 
+disclose your findings. We will do our best to acknowledge your email 
+promptly and work with you to resolve the issue in a timely manner.
 
-## Reporting a Vulnerability
+If you have identified a vulnerability and would like to propose a solution, 
+please include this in your email. We welcome contributions that improve 
+the security of our project and will carefully review any pull requests 
+that address security concerns.
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Thank you for helping to keep our project safe and secure.
