@@ -47,6 +47,8 @@ Se você se deparar com uma situação que viole este código de conduta ou se s
 
 Agradecemos a todos os que contribuem para o nosso projeto e reconhecemos o valor de suas contribuições. Seja bem-vindo à nossa comunidade de código aberto e obrigado por ajudar a tornar este projeto cada vez melhor.
 
+---
+
 ## English
 
 # Code of Conduct for Collaboration and Participation in Open Source Projects
