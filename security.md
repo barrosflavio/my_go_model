@@ -27,6 +27,8 @@ Obrigado por ajudar a manter nosso projeto seguro.
 | ------ | -------------------------- | ------------- |
 | 1.0.0  | Sem vulnerabilidades conhecidas | - |
 
+---
+
 ## English
 
 # Security Policy
