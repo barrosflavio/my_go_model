@@ -1,4 +1,4 @@
-# Índice / Index
+# Languages / Linguagens
 
 - [Português](#português)
 - [English](#english)
