@@ -9,7 +9,7 @@
 
 # Bem-vindo ao Projeto XYZ!
 
-Este é um projeto incrível que visa [descrição breve do projeto].
+Este é um projeto que visa [descrição breve do projeto].
 
 Para entender melhor nosso projeto, convidamos você a explorar os seguintes documentos:
 
@@ -29,7 +29,7 @@ Fique à vontade para contribuir, explorar e fazer parte da nossa comunidade! Ob
 
 # Welcome to Project XYZ!
 
-This is an amazing project that aims to [brief project description].
+This is an project that aims to [brief project description].
 
 To better understand our project, we invite you to explore the following documents:
 
