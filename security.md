@@ -3,7 +3,7 @@
 ## Reporting Security Issues
 
 If you discover a security vulnerability in this project, please email us
-at [seu-email@dominio.com](mailto:seu-email@dominio.com) with a detailed
+at [flaviomarbs@gmail.com](mailto:flaviomarbs@gmail.com) with a detailed
 description of the vulnerability. We kindly ask that you refrain from
 publicly disclosing the vulnerability until it has been addressed by our
 team.
