@@ -19,8 +19,6 @@ Se você identificou uma vulnerabilidade e gostaria de propor uma solução, por
 
 Obrigado por ajudar a manter nosso projeto seguro.
 
----
-
 ## Registro de Relatórios de Vulnerabilidade
 
 | Versão | Status da Vulnerabilidade | Resolvido Por |
@@ -42,8 +40,6 @@ We take security seriously and appreciate your efforts to responsibly disclose y
 If you have identified a vulnerability and would like to propose a solution, please include this in your email. We welcome contributions that improve the security of our project and will carefully review any pull requests that address security concerns.
 
 Thank you for helping to keep our project safe and secure.
-
----
 
 ## Vulnerability Report Log
 
