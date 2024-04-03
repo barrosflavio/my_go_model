@@ -1,4 +1,4 @@
-# Linguagens / Languages
+# Idiomas / Languages
 
 - [Português](#português)
 - [English](#english)
