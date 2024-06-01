@@ -1,32 +1,3 @@
-# Idiomas / Languages
-
-- [Português](#português)
-- [English](#english)
-
----
-
-## Português
-
-# Bem-vindo ao Repositório my_go_model!
-
-Este é um repositório que visa definir os padrões dos nossos projetos.
-
-Para entender melhor nosso projeto, convidamos você a explorar os seguintes documentos:
-
-- [Código de Conduta](https://github.com/barrosflavio/my_go_model?tab=coc-ov-file#português): Nosso código de conduta define os padrões de comportamento para todos os participantes do projeto. Por favor, leia e siga estas diretrizes para garantir um ambiente inclusivo, respeitoso e colaborativo.
-
-- [Licença](https://github.com/barrosflavio/my_go_model?tab=License-1-ov-file): Este arquivo contém os termos de licenciamento do nosso projeto. Por favor, leia atentamente para entender.
-
-- [Política de Segurança](https://github.com/barrosflavio/my_go_model?tab=security-ov-file#português): Se você descobrir qualquer problema de segurança em nosso projeto, este documento fornecerá orientações sobre como relatar essas questões de forma responsável.
-
-Além desses documentos, recomendamos explorar os outros arquivos e pastas em nosso repositório para aprender mais sobre o funcionamento interno do projeto.
-
-Fique à vontade para contribuir, explorar e fazer parte da nossa comunidade! Obrigado por se juntar a nós nesta jornada emocionante.
-
----
-
-## English
-
 # Welcome to the my_go_model Repository!
 
 This is a repository aimed at defining the standards for our projects.
